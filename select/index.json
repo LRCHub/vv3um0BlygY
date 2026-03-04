@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "Enchanted",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2026-03-04T10:23:21.228994Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Enchanted Pork Fist",
+      "artist": "Meat Puppets",
+      "has_synced": false,
+      "path": "select/01_Enchanted_Pork_Fist_Meat_Puppets.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Enchanted Porkfist",
+      "artist": "Meat Puppets",
+      "has_synced": false,
+      "path": "select/02_Enchanted_Porkfist_Meat_Puppets.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Legendary Enchanted Jetpack",
+      "artist": "Gloryhammer",
+      "has_synced": false,
+      "path": "select/03_Legendary_Enchanted_Jetpack_Gloryhammer.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Enchanted",
+      "artist": "Book Of Love",
+      "has_synced": false,
+      "path": "select/04_Enchanted_Book_Of_Love.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Enchanted - 2016 Remaster",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/05_Enchanted_-_2016_Remaster_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last House in the Enchanted Forest",
+      "artist": "Black Moth Super Rainbow",
+      "has_synced": false,
+      "path": "select/06_Last_House_in_the_Enchanted_Forest_Black_Moth_Super_Rainbow.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Enchanted",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/07_Enchanted_Taylor_Swift.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Isobel (Dim's Enchanted Forest)",
+      "artist": "Björk",
+      "has_synced": true,
+      "path": "select/08_Isobel_(Dim's_Enchanted_Forest)_Björk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Some Enchanted Evening",
+      "artist": "Les Baxter",
+      "has_synced": false,
+      "path": "select/09_Some_Enchanted_Evening_Les_Baxter.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Enchanted",
+      "artist": "Patrick Wolf",
+      "has_synced": true,
+      "path": "select/10_Enchanted_Patrick_Wolf.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Enchanted Land",
+      "artist": "Sodom",
+      "has_synced": true,
+      "path": "select/11_Enchanted_Land_Sodom.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Enchanted",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_Enchanted_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Enchanted",
+      "artist": "The Platters",
+      "has_synced": true,
+      "path": "select/13_Enchanted_The_Platters.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "This Enchanted",
+      "artist": "Hatchie",
+      "has_synced": false,
+      "path": "select/14_This_Enchanted_Hatchie.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "This Enchanted",
+      "artist": "Hatchie",
+      "has_synced": true,
+      "path": "select/15_This_Enchanted_Hatchie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Enchanted Land (Live)",
+      "artist": "Sodom",
+      "has_synced": true,
+      "path": "select/16_Enchanted_Land_(Live)_Sodom.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_01_Enchanted_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_02_Enchanted_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_03_Enchanted_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_04_Enchanted_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_05_Enchanted_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_06_Enchanted_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "Enchanted",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_07_Enchanted_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "Enchanted (Taylor's Version)",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_08_Enchanted_(Taylor's_Version)_テイラー・スウィフト.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "Enchanted (Live From Chicago/ San Jose / 2011)",
+      "artist": "テイラー・スウィフト",
+      "has_synced": false,
+      "path": "select/pl_09_Enchanted_(Live_From_Chicago__San_Jose___2011)_テイラー・スウィフト.txt"
+    }
+  ]
+}
